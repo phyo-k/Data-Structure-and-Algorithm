@@ -30,5 +30,11 @@
     <ClCompile Include="Q5_med3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Q6_sum_while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7_sum_for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
