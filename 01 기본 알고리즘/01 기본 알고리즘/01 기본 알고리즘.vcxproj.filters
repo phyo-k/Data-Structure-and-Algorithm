@@ -36,5 +36,17 @@
     <ClCompile Include="Q7_sum_for.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Q8_gauss.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q9_sumof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10_subtract.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q11_digit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
