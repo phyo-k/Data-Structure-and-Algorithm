@@ -48,5 +48,26 @@
     <ClCompile Include="Q11_digit.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Q12_mul.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q13_add.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q14_square.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q15_rectangle.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q16_triangle.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q17_spira.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q18_nrpira.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
