@@ -18,5 +18,23 @@
     <ClCompile Include="Q1_minof.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Q2_sumof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q3_aveof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q4_random_member.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5_ary_reverse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6_card_conv.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7_card_conv.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

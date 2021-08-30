@@ -1,24 +1,24 @@
-/* Q1 키의 최솟값을 구하는 프로그램을 작성하세요. 최솟값을 구하는 과정은 아래와 같은 함수로 구현하세요.*/
-/* int minof(const int a[], int n); */
+/* Q3 키의 평균을 구하는 프로그램을 작성하세요. */
+/* 정수가 아닌 실수값으로 평균값을 구합니다. 아래의 함수를 구현하세요. */
+/* double aveof(const int a[], int n); */
 
 #include <stdio.h>
 #include <stdlib.h>
 
-int minof(const int a[], int n) {
-	int i;
-	int min = a[0];
+double aveof(const int a[], int n) {
+	int sum = 0, i;
 
-	for (i = 1; i < n; i++)
-		if (a[i] < min) min = a[i];
+	for (i = 0; i < n; i++)
+		sum += a[i];
 
-	return min;
+	return sum/n;
 }
 
-int main (void) {
+int main(void) {
 	int i;
 	int* height;
 	int number;
-	
+
 	printf("사람 수 : ");  scanf_s("%d", &number);
 	height = calloc(number, sizeof(int));
 	printf("%d 사람의 키를 입력하세요.\n", number);
@@ -32,7 +32,7 @@ int main (void) {
 		}
 	}
 
-	printf("최솟값은 %d입니다.\n", minof(height, number));
+	printf("키의 평균은 %f입니다.\n", aveof(height, number));
 	free(height);
 
 	return 0;
