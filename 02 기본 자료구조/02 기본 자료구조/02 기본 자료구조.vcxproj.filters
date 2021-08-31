@@ -36,5 +36,17 @@
     <ClCompile Include="Q7_card_conv.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Q8_arycopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q9_ary_rcopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10_shuffle.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q11_dayofyear.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

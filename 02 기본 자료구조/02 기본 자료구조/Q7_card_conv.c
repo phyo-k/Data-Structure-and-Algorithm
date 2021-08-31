@@ -1,4 +1,4 @@
-/* Q6 card_conv 함수를 수정하여 배열의 맨 앞쪽에 아랫자리가 아니라 윗자리를 저장하는 함수를 작성하세요. */
+/* Q7 card_conv 함수를 수정하여 배열의 맨 앞쪽에 아랫자리가 아니라 윗자리를 저장하는 함수를 작성하세요. */
 /* int card_conv(unsigned x, int n, char d[]); */
 
 #include <stdio.h>
