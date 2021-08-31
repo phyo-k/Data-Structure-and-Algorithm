@@ -48,5 +48,11 @@
     <ClCompile Include="Q11_dayofyear.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Q12_physical.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q13_date_struct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
